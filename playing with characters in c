@@ -6,7 +6,7 @@
 int main() 
 {
 
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
+   
     char ch, s[100],sen[100];
    
    
