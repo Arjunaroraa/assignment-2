@@ -5,7 +5,7 @@
 
 int main() {
 
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */  
+    
     int num,i,sum=0;
     scanf("%d\n",&num);
     int arr[num];
